@@ -32,6 +32,7 @@
 * [die Slowakei](https://dataprotection.gov.sk/uoou/en)
 * [Slowenien](https://www.ip-rs.si/en/)
 * [Spanien](https://www.aepd.es/)
-* [die Tschechische Republik](https://www.uoou.cz/en/)
+* [Tschechien](https://www.uoou.cz/en/)
 * [Ungarn](https://www.naih.hu/general-information.html)
 * [Zypern](http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/home_el/home_el?opendocument)
+

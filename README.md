@@ -1,7 +1,8 @@
 <div>
   <h1 align="center">Awesome GDPR</h3>
 </div>
-# Aufsichtsbehören
+
+## Aufsichtsbehörden
 
 * [Deutschland](https://www.datenschutz-wiki.de/Aufsichtsbeh%C3%B6rden_und_Landesdatenschutzbeauftragte)
   * [Bund](https://www.bfdi.bund.de/DE/Home/home_node.html)

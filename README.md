@@ -22,9 +22,16 @@
 
 
 
+## Foren
+
+https://www.datenschutz-guru.de/forum
+
+
+
 ## Ressourcen
 
 * https://www.blogmojo.de/wordpress-plugins-dsgvo/
+* [Übersicht über Bußgelder](http://enforcementtracker.com/)
 
 
 
@@ -38,7 +45,7 @@
 
 ### Datenschutz-Folge-Abschätzung
 
-* 
+* [PIA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 
 ### Verarbeitungsverzeichnis
 
@@ -46,9 +53,8 @@
 
 ### "ganzheitlich"
 
-* 
-
-
+* http://www.datencockpit.at
+* https://www.dsm-online.eu
 
 
 

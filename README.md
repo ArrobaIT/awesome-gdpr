@@ -3,6 +3,8 @@
 </div>
 ## Verordnungen und Gesetze
 
+
+
 * DSGVO
   * [deutsch](https://dsgvo-gesetz.de/)
   * [englisch](https://gdpr-info.eu/)
@@ -14,8 +16,15 @@
 
 ## Websites und Blogs	
 
+* [DSK](https://www.datenschutzkonferenz-online.de/index.html)
 * [datenschutz-guru.de](https://www.datenschutz-guru.de)
 * [datenschutz-wiki.de](https://www.datenschutz-wiki.de/Hauptseite)
+
+
+
+## Ressourcen
+
+* https://www.blogmojo.de/wordpress-plugins-dsgvo/
 
 
 

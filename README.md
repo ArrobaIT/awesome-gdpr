@@ -1,6 +1,47 @@
 <div>
   <h1 align="center">Awesome GDPR</h3>
 </div>
+## Verordnungen und Gesetze
+
+* DSGVO
+  * [deutsch](https://dsgvo-gesetz.de/)
+  * [englisch](https://gdpr-info.eu/)
+* [BDSG (neu)](https://dsgvo-gesetz.de/bdsg/)
+* [Telemediengesetz (TMG)](http://www.gesetze-im-internet.de/tmg/)
+* [Telekommunikationsgesetz (TKG)](https://www.gesetze-im-internet.de/tkg_2004/)
+
+
+
+## Websites und Blogs	
+
+* [datenschutz-guru.de](https://www.datenschutz-guru.de)
+* [datenschutz-wiki.de](https://www.datenschutz-wiki.de/Hauptseite)
+
+
+
+## Bücher
+
+
+
+
+
+## Tools
+
+### Datenschutz-Folge-Abschätzung
+
+* 
+
+### Verarbeitungsverzeichnis
+
+* 
+
+### "ganzheitlich"
+
+* 
+
+
+
+
 
 ## Aufsichtsbehörden
 
@@ -35,4 +76,3 @@
 * [Tschechien](https://www.uoou.cz/en/)
 * [Ungarn](https://www.naih.hu/general-information.html)
 * [Zypern](http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/home_el/home_el?opendocument)
-
